@@ -1,0 +1,9 @@
+name: LNear
+main: im.apeki.lnear.Main
+version: @version@
+api-version: 1.13
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib:2.2.21
+commands:
+  lnear:
+    aliases: [ near ]
